@@ -1,0 +1,18 @@
+{
+  "name": "نظم‌یار — مدیریت وظایف",
+  "short_name": "نظم‌یار",
+  "description": "مدیریت وظایف تیم با تخته کانبان، تقویم جلالی و گزارش‌ها",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./?source=pwa",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F7F8FA",
+  "theme_color": "#0C66E4",
+  "categories": ["productivity", "business"],
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
